@@ -1,0 +1,5 @@
+Error: Syntax error: Unexpected keyword CAST at [1:1]
+Job ID: handy-limiter-230219:US.bquijob_705f9105_1692c428235
+Query: CAST(Date AS DATETIME)
+
+We were trying to cast the Date string schema as DATETIME. Whoever, the query did not on Big Query.

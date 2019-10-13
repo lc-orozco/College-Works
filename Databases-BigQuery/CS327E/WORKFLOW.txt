@@ -1,0 +1,5 @@
+We have chosen on creating a workflow on dataset2.
+
+For the tasks on our workflow, we will create a table for abandoned cars called create_Abandoned_table and a transformation for it which includes abandoned cars, wards, completion status, and dates called transform_Abandoned_table.
+
+The table transform_Abandoned_table will depend on what we create for create_Abandoned_table.
